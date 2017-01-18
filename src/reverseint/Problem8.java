@@ -2,6 +2,10 @@ package reverseint;
 
 import java.util.HashSet;
 
+/**
+ * 
+ * Define functions Union and Intersect for your own Set class 
+ * */
 public class Problem8 {
 	public static void main(String[] args){
 		MySet a = new MySet();
