@@ -4,6 +4,14 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.Iterator;
 
+
+/**
+ * 
+ * @author Валик
+ *
+ * This code shows all files from the project folder
+ */
+
 public class Main {
 	public static void main(String[] args){
 		ArrayList<String> list = new ArrayList();
